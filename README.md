@@ -1,6 +1,6 @@
 # Realnode专线VPN客户端 IPLC专线高速VPN
 
-[点击注册](https://user.realnode.co/#/register?code=c0tBDrSC)
+# [点击注册](https://user.realnode.co/#/register?code=c0tBDrSC)
 
 晚高峰期测速，节点基于AWS Global Accelerator云加速和IPLC内网专线。
 
