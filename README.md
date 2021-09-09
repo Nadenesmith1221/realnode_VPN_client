@@ -1,5 +1,4 @@
-# realnode_VPN_client
-Realnode专线VPN客户端，IPLC专线高速VPN
+# Realnode专线VPN客户端 IPLC专线高速VPN
 
 [点击注册](https://user.realnode.co/#/register?code=c0tBDrSC)
 
@@ -21,7 +20,6 @@ MaxSpeed代表的是文件最大下载速度MB/s
 
 ![5aZWB.png](https://i.w3tt.com/2021/09/03/5aZWB.png)
 
-注: 【手机请点击此处跳转查看】
 youtube 8K码率
 
 ![4JFHU.jpg](https://s3.jpg.cm/2021/01/28/4JFHU.jpg)
